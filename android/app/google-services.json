@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1076818452525",
+    "firebase_url": "https://flutter-projet-6a6db-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "flutter-projet-6a6db",
+    "storage_bucket": "flutter-projet-6a6db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076818452525:android:41d7f17cfdd6468b9898a4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkX-2zqD_0Mhu0pjw96G76WwP0gOqG04A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
